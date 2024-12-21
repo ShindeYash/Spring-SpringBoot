@@ -1,0 +1,7 @@
+Here we have created the autoWiring of the Laptop object inside the Dev class.
+
+This is done using the 3 Types of Injection
+
+-- Field Injection.
+-- Constructor Injection.
+-- Setter Injection.

@@ -1,0 +1,5 @@
+Here We have learned to use the DependencyInjection.
+
+Dependency Injection (DI) is a design pattern where an object (or dependency) is provided to a class from the outside rather than the class creating it itself.
+
+This approach ensures loose coupling, making the code more flexible, testable, and easier to maintain. The dependency is usually injected by a framework like Spring, which manages the creation and lifecycle of the dependencies.
