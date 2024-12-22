@@ -10,7 +10,7 @@ public class Dev {
     
     
     @Autowired   
-    Laptop myLaptop;
+    Computer myLaptop;
     
 
     // Constructor injection //

@@ -1,0 +1,5 @@
+Here Now we are looking how can we Handle the confusions occurred by the Interfaces while we autoWire the objects.
+
+Here, if we create the laptop and desktop Classes of Computer interface. Objects of both of them will be created in the Spring container. 
+
+So, to avoid the Error we can use another annotation @primary during the DI.
